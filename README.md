@@ -1,2 +1,2 @@
 # Mutiny
-Leaning Exercises and Crappy Games
+Learning Exercises and Crappy Games
